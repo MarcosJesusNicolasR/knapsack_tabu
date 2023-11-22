@@ -10,6 +10,4 @@ def my_mul(x, y):
 def my_res(x, y):
     """A function that multiply. """
     return x-y
-
-def saluda():
-    print("Hola Mundo!")
+    
